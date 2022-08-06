@@ -1,0 +1,16 @@
+{
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "",
+    "defaultLanguage": "",
+    "defaultI18NPropertyFile": "",
+    "resourceModelName": ""
+  },
+  "mockpreview": {
+    "mockUri": "",
+    "metadataFilePath": "mockserver/metadata.xml",
+    "mockRequestsFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false
+  }
+}
